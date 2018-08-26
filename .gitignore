@@ -2,3 +2,6 @@
 Thinking_functinally/.idea/*
 *.exe
 Thinking_functinally/chap1/fs/FSharp.Core.dll
+Thinking_functinally_wh/.idea/*
+Thinking_functinally_wh/common_words/bin/*
+Thinking_functinally_wh/common_words/obj/*
